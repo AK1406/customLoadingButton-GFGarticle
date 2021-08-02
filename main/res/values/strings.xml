@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GFG | Custom LoadingButton</string>
+    <string name="loading">We are loading</string>
+    <string name="download">Download</string>
+</resources>
